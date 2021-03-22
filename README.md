@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Software Developer 
+### Software Developer 
 
  <img align="right" alt="Ramin's GitHub Stats" src="https://media.giphy.com/media/1l2nAl9dP1AuEv9pTG/giphy.gif" width="400" />
 
