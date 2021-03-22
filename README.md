@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-## Software Developer
-  
-  <img align="left" alt="Ramin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raminafandi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" />
-  <img align="right" alt="Ramin's GitHub Stats" src="https://media.giphy.com/media/1l2nAl9dP1AuEv9pTG/giphy.gif" width="400" />
+## Software Developer 
+ <img align="left" alt="Ramin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raminafandi&show_icons=true&count_private=true&theme=dark" width="400" />
+ <img align="left" alt="Ramin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminafandi&layout=compact&theme=dark" width="300" />
+
+ <img align="right" alt="Ramin's GitHub Stats" src="https://media.giphy.com/media/1l2nAl9dP1AuEv9pTG/giphy.gif" width="400" />
 
 
 <br />
